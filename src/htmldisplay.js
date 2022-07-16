@@ -1,4 +1,4 @@
-import localstore from './localstorage.js';
+import localstore from './localstorage';
 
 export default (() => {
   const addListItem = (item) => {
