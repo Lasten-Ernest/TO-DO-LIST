@@ -2,22 +2,22 @@ import './style.css';
 
 const todoListTasks = [
   {
-    description: 'Create Project Repo',
+    description: 'Create To-Do-List structure',
     completed: false,
     index: 1,
   },
   {
-    description: 'Clone the Repo to local machine',
+    description: 'Create pull request',
     completed: true,
     index: 2,
   },
   {
-    description: 'Open my IDE',
+    description: 'Ask for code review',
     completed: true,
     index: 3,
   },
   {
-    description: 'Setting up Webpack',
+    description: 'Merge the branch if green light',
     completed: false,
     index: 4,
   },
