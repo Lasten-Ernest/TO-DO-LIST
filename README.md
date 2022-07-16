@@ -17,13 +17,10 @@ This is the To-do-list web application. It is built in JavaScript ES6, HTML5, CS
 1) - Open your favourite git client
 git clone https://github.com/Lasten-Ernest/to-do-list.git
 
-2) - To access cloned directory run:
-cd awesome-books
-
-3) - Open the directory in Vscode 
+2) - Open the directory in Vscode 
 
 ## In order to access this website on line:
- https://piercel2022.github.io/to-do-list/
+ https://Lasten-Ernest.github.io/to-do-list/
     
 ## Author
 
@@ -37,7 +34,7 @@ cd awesome-books
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
-any thanks should go to Microverse Organisation for this ReadMe template and the students the help they rendered during the development of this webpage.
+any thanks should go to Microverse Organisation for this ReadMe template and the students the help they rendered during the development of this web APP.
 
 ## Show your support
 
