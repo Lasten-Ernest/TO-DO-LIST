@@ -44,10 +44,7 @@ any thanks should go to Microverse Organisation for this ReadMe template and the
 Give a ⭐️ if you like this project!
 
 ## Acknowledgments
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
+- Many thanks to Microverse organisation for the ReadMe template and the resource on ES6 
 
 ## 📝 License
 
