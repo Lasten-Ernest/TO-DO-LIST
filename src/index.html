@@ -1,20 +1,26 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <title>To Do List App</title>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>To-do-List App</title>
+  <script src="https://kit.fontawesome.com/593ea6dc88.js" crossorigin="anonymous"></script>
 </head>
 <body>
-  <main>
-    <div>
-        <ul id="todo-list-group">
-          <li class="todo-list-item1">Today's To Do<i class="fa fa-refresh" aria-hidden="true"></i></li>
-          <li class="todo-list-item2"><input type="text" id="additem" placeholder="Add to your list ..."></li>
-          <li class="btn"><a href="#">Clear all Completed</a></li>
-        </ul>
-      </div>
-  </main>
+  <div class="container">
+    <p class="title">
+      Today's To Do
+    </p>
+    <form action="">
+      <input class="task-input" type="text" placeholder="Add to your list...">
+      <button class="submit-task"><i class="fa-solid fa-arrow-left"></i></button>
+    </form>
+    <ul id="todo-list">
+    </ul>
+    <div class="clear">
+      Clear all completed
+    </div>
+  </div>
 </body>
 </html>
