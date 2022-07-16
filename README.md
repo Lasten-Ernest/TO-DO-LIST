@@ -1,72 +1,47 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Project Name : TO-DO-LIST WEB APP
 
 > Description the project.
-
+This is the To-do-list web application. It is built in JavaScript ES6, HTML5, CSS3 and Nodejs. This web app will enable user to add/remove tasks and the information will be persistent in browser.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
+- HTML5 AND CSS3
+- JAVASCRIPT ES6
+- Nodejs
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+## In order to have a copy of this project in your computer follow these steps:
+1) - Open your favourite git client
+git clone https://github.com/Lasten-Ernest/to-do-list.git
 
+2) - Open the directory in Vscode 
 
-To get a local copy up and running follow these simple example steps.
+## In order to access this website on line:
+ https://Lasten-Ernest.github.io/to-do-list/
+    
+## Author
 
-### Prerequisites
+👤 **Ernest Lasten**
 
-### Setup
+- GitHub: [@Lasten-Ernest](https://github.com/Lasten-Ernest)
+- Twitter: [@ErnestLasten](https://twitter.com/ErnestLasten)
+- LinkedIn: [ernestlasten](https://mw.linkedin.com/in/ernest-lasten-613990197)
 
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
+any thanks should go to Microverse Organisation for this ReadMe template and the students the help they rendered during the development of this web APP.
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
 
 ## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Many thanks to Microverse organisation for the ReadMe template and the resource on ES6 
 
 ## 📝 License
 
