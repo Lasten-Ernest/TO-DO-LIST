@@ -42,5 +42,3 @@ function displayList() {
   });
 }
 displayList();
-
-// document.querySelector('h1').classList.add('header');
